@@ -1,4 +1,4 @@
-Biodiversity Index (BI) Prediction project
+Biodiversity Index (BI) Prediction Project:
 In this project, a dataset containing factors that influence 
 biodiversity index is used in a multiple linear regression (OLS) 
 to assess the effect of each factor on biodiversity index while 
@@ -12,7 +12,7 @@ on BI.
 
 
 
-Estimation on Water Use Project
+Estimation on Water Use Project:
 This project involved analysing access to water in the
 national, urban and rural populations of 213 countries in
 2020 from the United Nations Estimates on Water Use

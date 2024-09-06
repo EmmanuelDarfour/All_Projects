@@ -11,8 +11,8 @@ on BI.
 
 Determining Effect of Car Features on Fuel Efficiency: In this project, 
 I run a multiple linear regression (OLS) model on a dataset to determine how
-each predictor variable influences fuel efficiency. The variables having most 
-effect on mpg are wt and am, followed qsec and gear. 
+each predictor variable influences fuel efficiency. The variables that had most 
+effect on mpg were wt and am, followed qsec and gear. 
 
 
 

@@ -14,6 +14,7 @@ I run a multiple linear regression (OLS) model on a dataset to determine how
 each predictor variable influences fuel efficiency. The variables that had most 
 effect on mpg were wt and am, followed qsec and gear. 
 
+![life](https://github.com/user-attachments/assets/0fd0b9e3-b4b3-45d9-afea-4081ce0ee397)
 
 
 
